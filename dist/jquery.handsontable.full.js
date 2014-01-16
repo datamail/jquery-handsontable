@@ -13661,7 +13661,7 @@ return Handsontable;
 
     /*global define:false */
     if (typeof define === 'function' && define.amd) {
-        define('b', [], function () {
+        define('numeral', [], function () {
             return numeral;
         });
     }
